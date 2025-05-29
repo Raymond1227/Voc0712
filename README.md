@@ -1,4 +1,4 @@
-# project3
+# project
 
 项目结构
 ```
@@ -114,7 +114,7 @@ tensorboard --logdir='.output/sparse_rcnn_coco2007/tensorboard --port=6007'
 python inference.py
 ```
 
-![image](https://github.com/user-attachments/assets/43f33181-b16d-4548-ac32-986d15c80eec)
-![image](https://github.com/user-attachments/assets/7af1d8d4-676f-49b5-a95a-79bfb2a0b714)
+![image](picture/1.png)
+![image](picture/2.png)
 
 
